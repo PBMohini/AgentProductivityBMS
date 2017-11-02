@@ -1,0 +1,11 @@
+emailTo mohini@policybazaar.com,manojv@policybazaar.com,lalan@policybazaar.com,mohini@policybazaar.com,sandeepk@policybazaar.com,Shivesh@policybazaar.com,sahibjeet@policybazaar.com,amitd@policybazaar.com,varunb@policybazaar.com,Ravim@policybazaar.com,crtmotortls@policybazaar.com,Amitt@policybazaar.com,Yogesh@policybazaar.com,Akshays@policybazaar.com
+emailFrom mohini@policybazaar.com
+username mohini
+password 1992mohini@pb
+2 \\healthDataFinal.csv
+7 \\termDataFinal.csv
+115 \\investDataFinal.csv
+117 \\motorDataFinal.csv
+prodList 2,7,115,117
+temp manojv@policybazaar.com,lalan@policybazaar.com,mohini@policybazaar.com,sandeepk@policybazaar.com,Shivesh@policybazaar.com,sahibjeet@policybazaar.com,amitd@policybazaar.com,varunb@policybazaar.com,Ravim@policybazaar.com,crtmotortls@policybazaar.com,Amitt@policybazaar.com,Yogesh@policybazaar.com,Akshays@policybazaar.com
+LiveConnection SERVER=tcp:pbreplica.etechaces.com;DATABASE=REPLPBCROMA;UID=PBLive;PWD=PB123Live
